@@ -2,6 +2,7 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero";
 import './App.css'
 import Residencies from "./components/Residencies/Residencies";
+import Companies from './components/Companies/Companies'
 function App() {
   return (
     <div className="App">
